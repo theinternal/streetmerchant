@@ -6,6 +6,7 @@ node_modules/
 src/config/*.yaml
 
 .env
+dotenv
 *.proxies
 success-*.png
 
